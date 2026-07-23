@@ -18,9 +18,6 @@ I'm the sole author of **3 finalized Ethereum ERC standards**:
 
 ## 🚀 Current Projects
 
-### [AutoStore](http://autostore.spriterock.com) — AI Platform
-Intent routing + knowledge distillation platform. Lets users run complex tasks with lightweight models by extracting and packaging frontier model capabilities as macros.
-
 ### [Deakee](https://deakee.com) — Web3 DApp
 First DApp built on ERC-8063. Brings brand loyalty points on-chain with decentralized order matching. **350+ brand partners** including Alibaba, Chow Sang Sang, Kitco. Live on [App Store](https://deakee.com) & Google Play.
 
