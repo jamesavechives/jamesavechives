@@ -51,5 +51,5 @@ Mobile       Kotlin (Android)  ·  Swift (iOS)
 Looking for **Blockchain / AI Architect** or **Tech Lead** roles — Shenzhen or remote.
 
 [![X](https://img.shields.io/badge/X-@deakeegroup-000?logo=x)](https://x.com/deakeegroup)
-[![Email](https://img.shields.io/badge/Email-qian.walstonn@qq.com-blue)](mailto:qian.walstonn@qq.com)
+[![Email](https://img.shields.io/badge/Email-contact@deakee.com-blue)](mailto:contact@deakee.com)
 [![Verified Works](https://img.shields.io/badge/Verified%20Works-deakee.com%2Fu%2Fchengqian-2ea44f)](https://deakee.com/u/chengqian)
