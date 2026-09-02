@@ -1,4 +1,4 @@
-# Hi, I'm Qian Cheng (钱诚) 👋
+# Hi, I'm Cheng Qian (钱诚) 👋
 
 **Blockchain & AI Architect** · 17 years building at the protocol layer
 
@@ -10,16 +10,18 @@ I'm the sole author of **3 finalized Ethereum ERC standards**:
 
 | Standard | Title | Summary |
 |---|---|---|
-| [ERC-7743](https://eips.ethereum.org/EIPS/eip-7743) | Co-owned NFT | Multi-owner NFT with shared ownership semantics |
-| [ERC-7837](https://eips.ethereum.org/EIPS/eip-7837) | Diffusive Token | Mint-on-transfer fungible token model |
-| [ERC-8063](https://eips.ethereum.org/EIPS/eip-8063) | Group / Community | On-chain group identity & membership primitives |
+| [ERC-7743](https://eips.ethereum.org/EIPS/eip-7743) | Multi-Owner Non-Fungible Tokens (MO-NFT) | Shared ownership of one NFT across multiple owners, with provider-defined transfer fees |
+| [ERC-7837](https://eips.ethereum.org/EIPS/eip-7837) | Diffusive Tokens | A fungible token that mints on transfer, with a per-token native fee and a capped supply |
+| [ERC-8063](https://eips.ethereum.org/EIPS/eip-8063) | Groups — Membership Tokens | ERC-20 tokens where balance *is* membership level, with threshold-based access control |
 
 ---
 
 ## 🚀 Current Projects
 
 ### [Deakee](https://deakee.com) — Web3 DApp
-First DApp built on ERC-8063. Brings brand loyalty points on-chain with decentralized order matching. **350+ brand partners** including Alibaba, Chow Sang Sang, Kitco. Live on [App Store](https://deakee.com) & Google Play.
+The first production application built on ERC-8063: coupon access is gated by DKG token balance, so a member's balance *is* their membership tier. **1,600+ brand partners** across the Awin and CJ affiliate networks. Live on [iOS](https://apps.apple.com/us/app/deakee/id6759796447), [Android](https://play.google.com/store/apps/details?id=com.deakee.android) and [the web](https://deakee.com).
+
+Reference implementation: **[erc-8063-reference](https://github.com/jamesavechives/erc-8063-reference)** — the membership-token contracts, deployed on Arbitrum One.
 
 ---
 
