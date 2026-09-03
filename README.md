@@ -19,7 +19,7 @@ I'm the sole author of **3 finalized Ethereum ERC standards**:
 ## 🚀 Current Projects
 
 ### [Deakee](https://deakee.com) — Web3 DApp
-The first production application built on ERC-8063: coupon access is gated by DKG token balance, so a member's balance *is* their membership tier. **1,600+ brand partners** across the Awin and CJ affiliate networks, including Alibaba, Chow Sang Sang and Kitco. Live on [iOS](https://apps.apple.com/us/app/deakee/id6759796447), [Android](https://play.google.com/store/apps/details?id=com.deakee.android) and [the web](https://deakee.com).
+The first production application built on ERC-8063: coupon access is gated by DKG token balance, so a member's balance *is* their membership tier. **1,600+ brand partners** including Alibaba, Chow Sang Sang and Kitco. Live on [iOS](https://apps.apple.com/us/app/deakee/id6759796447), [Android](https://play.google.com/store/apps/details?id=com.deakee.android) and [the web](https://deakee.com).
 
 Reference implementation: **[erc-8063-reference](https://github.com/jamesavechives/erc-8063-reference)** — the membership-token contracts, deployed on Arbitrum One.
 
