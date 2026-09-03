@@ -45,9 +45,7 @@ Mobile       Kotlin (Android)  ·  Swift (iOS)
 
 ---
 
-## 📬 Open to Work
-
-Looking for **Blockchain / AI Architect** or **Tech Lead** roles — Shenzhen or remote.
+## 📬 Contact
 
 [![X](https://img.shields.io/badge/X-@deakeegroup-000?logo=x)](https://x.com/deakeegroup)
 [![Email](https://img.shields.io/badge/Email-contact@deakee.com-blue)](mailto:contact@deakee.com)
